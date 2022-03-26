@@ -1,0 +1,18 @@
+h1,h3{
+    color: red;
+}
+ol,ul{
+    color: brown;
+}
+p{
+    color: rgb(146, 91, 28);
+}
+a{
+    background-color: yellow;
+}
+span{
+    background-color: yellow;
+}
+ul{
+    letter-spacing: 5px;
+}
